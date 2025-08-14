@@ -18,12 +18,12 @@ This project matches candidate resumes with job listings for data science roles.
 - NLTK / spaCy for text processing
 
 ## How It’s Structured
-─ matcher.py # Main Streamlit app
-─ skills.csv # Skill frequency data (Skill, Count)
-─ resumes/ # Folder for resumes
-─ job_descriptions/ # Folder for job postings
-- requirements.txt # Dependencies
-- README.md
+├── matcher.py # Main Streamlit app
+├── skills.csv # Skill frequency data (Skill, Count)
+├── resumes/ # Folder for resumes
+├── job_descriptions/ # Folder for job postings
+├── requirements.txt # Dependencies
+└── README.md
 
   
 ## Installation
