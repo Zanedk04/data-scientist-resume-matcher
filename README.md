@@ -19,12 +19,17 @@ This project matches candidate resumes with job listings for data science roles.
 
 ## How It’s Structured
 .
-├── matcher.py            # Streamlit app for running the matcher
-├── skills.csv            # CSV of top skills scraped from job listings (Skill, Count)
-├── resumes/              # Sample resumes for testing
-├── job_descriptions/     # Sample scraped job postings
-├── requirements.txt      # Python package dependencies
-└── README.md             # Project documentation
+matcher.py – Streamlit app that runs the resume matcher.
+
+skills.csv – CSV of top skills scraped from job listings (Skill, Count).
+
+resumes/ – Folder containing sample resumes for testing.
+
+job_descriptions/ – Folder containing sample scraped job postings.
+
+requirements.txt – List of Python dependencies.
+
+README.md – This file.
 
   
 ## Installation
